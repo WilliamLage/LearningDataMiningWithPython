@@ -19,7 +19,7 @@ Feel free to add a feature request, and I'll try fulfil it somehow, somewhere.
 
 ### Want to go further?
 
-Check out the author's website at [
+Check out the author's website at 
 <a href="http://learningtensorflow.com">
     <img src="http://learningtensorflow.com/images/Drawing.png">
 </a>
