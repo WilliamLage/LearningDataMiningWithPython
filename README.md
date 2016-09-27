@@ -12,9 +12,18 @@ This git repository will be updated with improved code and instuctions, designed
     <img src="front_cover.jpg">
 </a>
 
+
 ## Scope of this Repo
 At this stage, we won't be going past the scope of the book.
 Feel free to add a feature request, and I'll try fulfil it somehow, somewhere.
+
+### Want to go further?
+
+Check out the author's website at [
+<a href="http://learningtensorflow.com">
+    <img src="http://learningtensorflow.com/images/Drawing.png">
+</a>
+
 I also have a site [LearningTensorFlow.com](http://learningtensorflow.com/) if you want to learn about Google's TensorFlow algorithm.
 I also **also** have the [dataPipeline](https://datapipeline.com.au/) website, which contains a blog that talks about all things data analysis and projects.
 
